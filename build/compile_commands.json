@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\main.cpp.obj -c C:\\programming_tech\\lab04\\main.cpp",
+  "file": "C:\\programming_tech\\lab04\\main.cpp",
+  "output": "CMakeFiles\\lab04.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\logic\\TagGame.cpp.obj -c C:\\programming_tech\\lab04\\logic\\TagGame.cpp",
+  "file": "C:\\programming_tech\\lab04\\logic\\TagGame.cpp",
+  "output": "CMakeFiles\\lab04.dir\\logic\\TagGame.cpp.obj"
+},
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\logic\\CreateTagGame.cpp.obj -c C:\\programming_tech\\lab04\\logic\\CreateTagGame.cpp",
+  "file": "C:\\programming_tech\\lab04\\logic\\CreateTagGame.cpp",
+  "output": "CMakeFiles\\lab04.dir\\logic\\CreateTagGame.cpp.obj"
+},
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\interface\\Console.cpp.obj -c C:\\programming_tech\\lab04\\interface\\Console.cpp",
+  "file": "C:\\programming_tech\\lab04\\interface\\Console.cpp",
+  "output": "CMakeFiles\\lab04.dir\\interface\\Console.cpp.obj"
+},
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\log\\ILogger.cpp.obj -c C:\\programming_tech\\lab04\\log\\ILogger.cpp",
+  "file": "C:\\programming_tech\\lab04\\log\\ILogger.cpp",
+  "output": "CMakeFiles\\lab04.dir\\log\\ILogger.cpp.obj"
+},
+{
+  "directory": "C:/programming_tech/lab04/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/programming_tech/lab04/logic -IC:/programming_tech/lab04/interface -g -o CMakeFiles\\lab04.dir\\log\\CreateLogger.cpp.obj -c C:\\programming_tech\\lab04\\log\\CreateLogger.cpp",
+  "file": "C:\\programming_tech\\lab04\\log\\CreateLogger.cpp",
+  "output": "CMakeFiles\\lab04.dir\\log\\CreateLogger.cpp.obj"
+}
+]
