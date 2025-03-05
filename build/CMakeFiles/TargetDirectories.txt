@@ -1,3 +1,0 @@
-C:/programming_tech/lab04/build/CMakeFiles/lab04.dir
-C:/programming_tech/lab04/build/CMakeFiles/edit_cache.dir
-C:/programming_tech/lab04/build/CMakeFiles/rebuild_cache.dir
